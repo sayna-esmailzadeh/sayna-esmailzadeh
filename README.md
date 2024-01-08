@@ -25,8 +25,6 @@ My coding philosophy is centered around writing every line with the end user in 
 ### Let's see Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayna-esmailzadeh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayna-esmailzadeh&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sayna-esmailzadeh)  
 
 Looking forward to collaborating and building innovative solutions! 🚀
