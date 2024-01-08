@@ -17,10 +17,11 @@ My coding philosophy is centered around writing every line with the end user in 
 
 ### Let's Connect!
 - [GitHub](https://github.com/sayna-esmailzadeh)
-- [LinkedIn](https://www.linkedin.com/in/sayna-esmailzadeh/)
-- [Instagram](https://www.instagram.com/sayna_esmailzadeh?igsh=MTNiYzNiMzkwZA%3D%3D&utm_source=qr/)
-- [Twitter](https://twitter.com/its_sa1100)
 - [Medium](https://medium.com/@saynaesmailzadeh)
+- [LinkedIn](https://www.linkedin.com/in/sayna-esmailzadeh/)
+- [Twitter](https://twitter.com/its_sa1100)
+- [Instagram](https://www.instagram.com/sayna_esmailzadeh?igsh=MTNiYzNiMzkwZA%3D%3D&utm_source=qr/)
+
 
 ### Let's see Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayna-esmailzadeh)](https://github.com/anuraghazra/github-readme-stats)
